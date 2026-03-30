@@ -13,12 +13,12 @@ Cyber Security Professional with over **12 years of IT experience**, including *
 - **Networking:** Cisco CLI, Network Security, Packet Analysis.
 - **Data/Dev:** Python, Linux (Debian/RHEL), Data Visualization.
 
-## 🔭 I’m currently working on ...
--**Revamping my homelab** - new server, NAS and configured VMs
--**Setting up Openclaw/moltbot on my self-hosted homelab** - trying to automate some daily tasks
+## 🔭 I’m currently working on
+- **Revamping my homelab:** new server, NAS and configured VMs
+- **Setting up Openclaw/moltbot on my self-hosted homelab:** trying to automate some tasks on my homelab
 
 ## 🌱 I’m currently learning ...
-- **Linux LPI Certification** - exam part 2
+- **Linux LPI Certification:** studying for exam part 2
 
 ## ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
