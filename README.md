@@ -1,24 +1,24 @@
-### Cyber Security Analyst | Life-time Learner
+### Cyber Security Professional | Life-time Learner
 
-I’m a cybersecurity professional
+Cyber Security Professional with over **12 years of IT experience**, including **6 years** specializing in **cybersecurity** and **7 years** in **IT support**.
 
 ---
 
 ## 🚀 Professional Focus
-- **Primary Role:** Analyzing cyberthreats
-- **Current Project:** Revamping my home lab
-- **Current Study:** studying for Linux Professional Insitute cert
+- **Primary Role:** Analyzing cyber threats as a SOC analyst.
+- **Current Project:** Fine-tuning Zeek and Suricata in a SIEM
 
 ## 🛠️ Technical Toolkit
 - **Security:** SOC Operations, Threat Intelligence, Incident Response.
 - **Networking:** Cisco CLI, Network Security, Packet Analysis.
-- **Data/Dev:** Python, Linux (Debian/RHEL), Data Visualization, Git.
+- **Data/Dev:** Python, Linux (Debian/RHEL), Data Visualization.
 
 ## 🔭 I’m currently working on ...
--**[placeholder](https://github.com/your-username/project-link)** - placeholder
+-**Revamping my homelab** - new server, NAS and configured VMs
+-**Setting up Openclaw/moltbot on my self-hosted homelab** - trying to automate some daily tasks
 
 ## 🌱 I’m currently learning ...
-- **Linux LPI Certificaiton**
+- **Linux LPI Certification** - exam part 2
 
 ## ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +28,8 @@ I’m a cybersecurity professional
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile) 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]((https://www.linkedin.com/iin/jerrymadamsjr)) 
 [![Resume PDF](https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/your-username/jerry/blob/main/Jerry_Resume.pdf)
 
 <!--
